@@ -1,1 +1,1 @@
-rvm use ree@stashboard
+rvm 1.9.3@stashboard --create
